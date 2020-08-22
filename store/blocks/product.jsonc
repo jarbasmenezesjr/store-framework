@@ -59,12 +59,7 @@
       "props": {
         "warningQuantityThreshold": 9999999
       }
-    },
-    "flex-layout.row#shipping-simulator": {
-      "children": [
-        "shipping-simulator"
-      ]
-    },
+    },    
     "shipping-simulator": {
       "props": {
         "skuID": "342"
