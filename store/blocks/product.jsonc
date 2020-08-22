@@ -29,7 +29,7 @@
         "product-identifier.product",
         "product-price",
         "flex-layout.row#qty-sku",
-        "flex-layout.row#shipping-simulator"
+        "shipping-simulator"
       ]
     }, 
     "product-name": {
