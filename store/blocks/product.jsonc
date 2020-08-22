@@ -39,6 +39,11 @@
         "shipping-simulator"
       ]
     },
+    "shipping-simulator": {
+      "props": {
+        "skuID": "342"
+      }
+    },
     "product-price": {
       "props": {
         "showSavings": true,
