@@ -18,7 +18,6 @@
         "header-row#main"
     ]
     },
-
     "header-layout.mobile": {
     "children": [
         "header-row#notification",
@@ -37,6 +36,7 @@
     "children": [
       "logo",
       "header-spacer",
+      "search-bar",
       "minicart",
       "login"
     ],  
