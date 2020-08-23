@@ -23,7 +23,11 @@
     "vtex.menu@2.x:submenu#major":{
         "children":[
           "vtex.menu@2.x:menu#major"
-        ]
+        ],
+        "props": {
+            "width": "auto",
+            "orientation": "vertical"
+          }
     },   
     "vtex.menu@2.x:menu#small": {
         "children": [
@@ -39,7 +43,11 @@
     "vtex.menu@2.x:submenu#small":{
         "children":[
           "vtex.menu@2.x:menu#small"
-        ]
+        ],
+        "props": {
+            "width": "auto",
+            "orientation": "vertical"
+          }
     },
     "menu-item#small-appliances": {
         "children": [
@@ -75,6 +83,10 @@
     "vtex.menu@2.x:submenu#electronics":{
         "children":[
           "vtex.menu@2.x:menu#electronics"
-        ]
+        ],
+        "props": {
+            "width": "auto",
+            "orientation": "vertical"
+          }
     }
 }
