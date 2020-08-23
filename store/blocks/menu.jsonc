@@ -34,7 +34,6 @@
             "menu-item#coffee"
             ],
         "props": {
-          "width": "auto",
           "orientation": "vertical"
         }
       },
@@ -43,7 +42,6 @@
           "vtex.menu@2.x:menu#small"
         ],
         "props": {
-            "width": "auto",
             "orientation": "vertical"
           }
     },
@@ -64,7 +62,6 @@
             "menu-item#tvs"
             ],
         "props": {
-          "width": "auto",
           "orientation": "vertical"
         }
       },
@@ -83,7 +80,6 @@
           "vtex.menu@2.x:menu#electronics"
         ],
         "props": {
-            "width": "auto",
             "orientation": "vertical"
           }
     }
