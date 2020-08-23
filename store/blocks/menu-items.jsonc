@@ -1,19 +1,22 @@
 {
   "menu-item#major-appliances": {
       "props": {
-        "id": "menu-item-major-appliances"
+        "id": "menu-item-major-appliances",
+        "orientation": "vertical"
     },    
     "blocks": ["vtex.menu@2.x:submenu#major"]
   },
   "menu-item#small-appliances": {
     "props": {
-      "id": "menu-item-small-appliances"
+      "id": "menu-item-small-appliances",
+      "orientation": "vertical"
   },    
   "blocks": ["vtex.menu@2.x:submenu#small"]
   },
   "menu-item#electronics": {
     "props": {
-      "id": "menu-item-electronics"
+      "id": "menu-item-electronics",
+      "orientation": "vertical"
   },    
   "blocks": ["vtex.menu@2.x:submenu#electronics"]
   },
