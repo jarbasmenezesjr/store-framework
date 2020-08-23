@@ -16,7 +16,6 @@
           "menu-item#washers"
         ],
         "props": {
-          "width": "auto",
           "orientation": "vertical"
         }
       },
@@ -25,7 +24,6 @@
           "vtex.menu@2.x:menu#major"
         ],
         "props": {
-            "width": "auto",
             "orientation": "vertical"
           }
     },   
