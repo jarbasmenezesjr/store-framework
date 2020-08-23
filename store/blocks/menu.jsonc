@@ -17,7 +17,7 @@
         ],
         "props": {
           "width": "auto",
-          "orientation": "vertital"
+          "orientation": "vertical"
         }
       },
     "vtex.menu@2.x:submenu#major":{
@@ -25,6 +25,17 @@
           "vtex.menu@2.x:menu#major"
         ]
     },   
+    "vtex.menu@2.x:menu#small": {
+        "children": [
+            "menu-item#mixers",
+            "menu-item#toasters",
+            "menu-item#coffee"
+            ],
+        "props": {
+          "width": "auto",
+          "orientation": "vertical"
+        }
+      },
     "vtex.menu@2.x:submenu#small":{
         "children":[
           "vtex.menu@2.x:menu#small"
@@ -40,6 +51,17 @@
             "orientation": "vertical"
           }
     },
+    "vtex.menu@2.x:menu#electronics": {
+        "children": [
+            "menu-item#cameras",
+            "menu-item#laptops",
+            "menu-item#tvs"
+            ],
+        "props": {
+          "width": "auto",
+          "orientation": "vertical"
+        }
+      },
     "menu-item#electronics": {
         "children": [
         "menu-item#cameras",
